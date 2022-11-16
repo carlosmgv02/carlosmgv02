@@ -2,9 +2,9 @@
 ### About Me
 Soy estudiante de ingeniería informática, enfocado en la programación.
 - 🔭 I’m currently working on GARLIC_OS
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning SpringBoot
 - 👯 I’m looking to collaborate on Java projects
-- 💬 Ask me about ...
+- 💬 Ask me about java/ARM
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlos-mart%C3%ADnez-887499215)
 ### Languages
 <div align="center">
