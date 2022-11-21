@@ -6,6 +6,7 @@ Soy estudiante de ingeniería informática, enfocado en la programación.
 - 👯 I’m looking to collaborate on Java projects
 - 💬 Ask me about java/ARM
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlos-mart%C3%ADnez-887499215)
+- Go check my [Github gists](https://gist.github.com/carlosmgv02)
 ### Languages
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
