@@ -1,6 +1,6 @@
 # Bienvenido/a, soy Carlos Martínez
 ### About Me
-Soy estudiante de ingeniería informática, enfocado en la programación.
+I'm a computer science student who loves tech, software and bcakend development.
 - 🔭 I’m currently working on VueJs, SpringBoot & PostgreSQL.
 - 👯 I’m looking to collaborate on Java projects
 - 💬 Ask me about java/ARM
@@ -21,11 +21,4 @@ Soy estudiante de ingeniería informática, enfocado en la programación.
 
 </div>
 
-<!--
-**carlosmgv02/carlosmgv02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![919853](https://user-images.githubusercontent.com/76976573/224578516-8c2807fb-b75a-4628-8466-d8588f8ad786.png)
