@@ -14,6 +14,8 @@ I'm a computer science student who loves tech, software and bcakend development.
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://user-images.githubusercontent.com/76976573/224578461-29616054-821f-4df7-8e59-8fd642e45508.svg" title="SpringBoot" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://user-images.githubusercontent.com/76976573/224578516-8c2807fb-b75a-4628-8466-d8588f8ad786.png" title="docker" alt="Docker" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmgv02)](https://github.com/anuraghazra/github-readme-stats)
 
