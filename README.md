@@ -1,6 +1,6 @@
 # Bienvenido/a, soy Carlos Martínez
 ### About Me
-I'm a software engineer who loves tech, software and bcakend development.
+I'm a software engineer who loves tech, software and backend development.
 - 🔭 I’m currently working on VueJs, SpringBoot & PostgreSQL.
 - 👯 I’m looking to collaborate on Java projects
 - 💬 Ask me about java/springboot/python
